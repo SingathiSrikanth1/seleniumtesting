@@ -1,0 +1,8 @@
+E:\seleniumPracticse\CSharpintroduction\CSharpintroduction\bin\Debug\CSharpintroduction.exe.config
+E:\seleniumPracticse\CSharpintroduction\CSharpintroduction\bin\Debug\CSharpintroduction.exe
+E:\seleniumPracticse\CSharpintroduction\CSharpintroduction\bin\Debug\CSharpintroduction.pdb
+E:\seleniumPracticse\CSharpintroduction\CSharpintroduction\obj\Debug\CSharpintroduction.csproj.AssemblyReference.cache
+E:\seleniumPracticse\CSharpintroduction\CSharpintroduction\obj\Debug\CSharpintroduction.csproj.SuggestedBindingRedirects.cache
+E:\seleniumPracticse\CSharpintroduction\CSharpintroduction\obj\Debug\CSharpintroduction.csproj.CoreCompileInputs.cache
+E:\seleniumPracticse\CSharpintroduction\CSharpintroduction\obj\Debug\CSharpintroduction.exe
+E:\seleniumPracticse\CSharpintroduction\CSharpintroduction\obj\Debug\CSharpintroduction.pdb
